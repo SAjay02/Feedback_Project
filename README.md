@@ -6,6 +6,6 @@ This project is about the feedback of student they are given to their belonging 
 * Then log in on it.
 * Finally give the feedback about the following questions on it.
 
-# Dababase  
+# Database  
 * In  this i have used Mysql DataBase to store the backend data.
 * we can edit and update the following data.
